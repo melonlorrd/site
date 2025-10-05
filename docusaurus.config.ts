@@ -62,6 +62,12 @@ const config: Config = {
     },
     navbar: {
       title: 'MNLRD',
+      logo: {
+        alt: 'Site Logo',
+        src: 'img/favicon.png',
+        width: 32,
+        height: 32,
+      },
       items: [
         { to: '/blog', label: 'BLOG', position: 'left' },
         { to: '/resume', label: 'RESUME', position: 'left' },
