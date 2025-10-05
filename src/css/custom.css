@@ -1,0 +1,72 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #7a5eb8;
+  /* Soft neo-Tokyo purple */
+  --ifm-color-primary-dark: #6b51a3;
+  --ifm-color-primary-darker: #5d4690;
+  --ifm-color-primary-darkest: #4a3874;
+  --ifm-color-primary-light: #8a6cc7;
+  --ifm-color-primary-lighter: #9b7ed4;
+  --ifm-color-primary-lightest: #b39ae4;
+
+  /* --ifm-font-size-base: 1.1rem; */
+  --ifm-code-font-size: 100%;
+  --docusaurus-highlighted-code-line-bg: rgba(80, 65, 120, 0.1);
+
+  --ifm-font-family-base: 'JetBrains Mono', monospace;
+  --ifm-font-family-monospace: 'JetBrains Mono', monospace;
+}
+
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #b38cff;
+  /* Luminous soft violet */
+  --ifm-color-primary-dark: #9f7ce6;
+  --ifm-color-primary-darker: #8c6dcf;
+  --ifm-color-primary-darkest: #7256ad;
+  --ifm-color-primary-light: #c5a4ff;
+  --ifm-color-primary-lighter: #d7bfff;
+  --ifm-color-primary-lightest: #e6d6ff;
+
+  --docusaurus-highlighted-code-line-bg: rgba(180, 140, 255, 0.15);
+}
+
+::selection {
+  background-color: var(--ifm-color-primary-dark);
+  color: #ffffff;
+}
+
+[data-theme='dark'] ::selection {
+  background-color: var(--ifm-color-primary-light);
+  color: #000000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Doto", sans-serif;
+  color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--ifm-color-primary-light);
+}
