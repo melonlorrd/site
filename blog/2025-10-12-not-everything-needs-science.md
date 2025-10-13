@@ -5,6 +5,10 @@ title: Not Everything Needs Science
 
 # Not Everything Needs Science
 
+I assure you I am not a science denier. This is my opinion.
+    
+<!-- truncate -->
+
 There is no doubt that science is the best system we humans have for understanding and proving what is true about the world. Over centuries, we have refined this system, questioning, experimenting, and improving it, and it continues to evolve as we learn more. Science has given us technology, medicine, and a deeper understanding of nature’s laws. It is one of the greatest achievements of the human mind.
 
 But the other day, while sitting in a taxi, listening to hymns dedicated to Lord Shiva playing softly on the radio, a question wandered into my mind. People all over the world worship deities, follow rituals, and hold traditions close to their hearts. Before science became the dominant way of understanding reality, religion and culture were seen as absolute truth. But today, we live in an age where everyone seems to either disprove religion through science or try to prove religion with science, often without really following scientific principles at all.
