@@ -5,7 +5,7 @@ title: Not Everything Needs Science
 
 # Not Everything Needs Science
 
-I assure you I am not a science denier. This is my opinion.
+I assure you, I am not a science denier. But sometimes I wonder, does everything in life really need a scientific reason?
     
 <!-- truncate -->
 
